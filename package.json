@@ -1,5 +1,5 @@
 {
-  "name": "analytics.js-integration-rubicon",
+  "name": "@astronomerio/analytics.js-integration-rubicon",
   "description": "The Rubicon analytics.js integration.",
   "author": "alois@astronomer.io",
   "license": "MIT",
