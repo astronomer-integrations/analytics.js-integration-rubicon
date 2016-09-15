@@ -21,7 +21,11 @@
   },
   "homepage": "",
   "dependencies": {
+    "@segment/analytics.js-integration": "github:segmentio/analytics.js-integration"
   },
   "devDependencies": {
+    "@astronomerio/analytics.js-core": "github:astronomerio/analytics.js-core",
+    "@segment/analytics.js-integration-tester": "github:segmentio/analytics.js-integration-tester",
+    "@segment/clear-env": "github:segmentio/clear-env"
   }
 }
